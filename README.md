@@ -7,7 +7,7 @@
  - configure jack audio server for realtime playback
  - add waveform shaping features
  - pretty much everything
- - 
+  
 
 ##to do after core functionality:
  - integrate midi protocol
