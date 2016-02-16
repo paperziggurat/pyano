@@ -8,7 +8,7 @@
  - add waveform shaping features
  - pretty much everything
  - 
+
 ##to do after core functionality:
  - integrate midi protocol
  - add VST spec
- 
