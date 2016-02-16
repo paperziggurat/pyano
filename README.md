@@ -6,6 +6,7 @@
  - multi-thread event listening (maybe not necessary with jack2?)
  - configure jack audio server for realtime playback
  - add waveform shaping features
+   - ayy
  - pretty much everything
   
 
