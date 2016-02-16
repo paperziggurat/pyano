@@ -5,8 +5,8 @@
  - finish UI
  - multi-thread event listening (maybe not necessary with jack2?)
  - configure jack audio server for realtime playback
+   - maybe do ALSA later
  - add waveform shaping features
-   - ayy
  - pretty much everything
   
 
