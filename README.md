@@ -2,14 +2,14 @@
 3 osc python/qt synthesizer emulator
 
 ##to do:
- - finish UI
+ - finish ui
  - multi-thread event listening (maybe not necessary with jack2?)
  - configure jack audio server for realtime playback
-   - maybe do ALSA later
+   - maybe do alsa later
  - add waveform shaping features
  - pretty much everything
   
 
 ##to do after core functionality:
  - integrate midi protocol
- - add VST spec
+ - add vst spec
